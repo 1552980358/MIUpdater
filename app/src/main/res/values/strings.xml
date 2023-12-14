@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">MI Updater</string>
+
+    <string name="action_close">Close</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_password_visible">Password visible</string>
+    <string name="action_password_invisible">Password invisible</string>
+
+    <string name="login_title">Login</string>
+    <string name="login_icon_xiaomi">Xiaomi</string>
+    <string name="login_field_account_label">Account</string>
+    <string name="login_field_account_leading">@string/login_field_account_label</string>
+    <string name="login_field_password_label">Password</string>
+    <string name="login_field_password_leading">@string/login_field_password_label</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_button_anonymous">As anonymous</string>
+    <string name="login_snack_complete">Login success</string>
+    <string name="login_snack_error_connection">Connection error. Check your Internet connection</string>
+    <string name="login_snack_error_auth">Authorization error. Check your username or password</string>
+    <string name="login_snack_error_server">Server error.</string>
+
 </resources>
